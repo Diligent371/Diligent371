@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm [Duncan Mugo]
 
-<!--
-**Diligent371/Diligent371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning [Artificial Intelligence course in WeCan Academy a College located behind Safaripark Holet just after USIU].
+- I'm interested in [ knowing  AI as it will help to solve our day today problems ].
+- I'm looking to collaborate on ["beginner-friendly open source projects"].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- ["Python", "HTML/CSS", "Machine Learning"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Project name](link) — short description
+
+## How to Reach Me
+- Email: [dunmugoh51@gmail.com]
+- LinkedIn: [duncan]
