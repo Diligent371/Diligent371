@@ -1,4 +1,4 @@
-# Hi, I'm [Duncan Mugo]
+# Hi, I'm Duncan Mugo.
 
 ## About Me
 - I'm currently learning [Artificial Intelligence course in WeCan Academy a College located behind Safaripark Holet just after USIU].
