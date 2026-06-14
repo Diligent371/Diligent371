@@ -10,7 +10,7 @@
 - ["Python", "HTML/CSS", "Machine Learning"]
 
 ## Current Projects
-- [Project name](link) — short description
+- [my first attempt](link) — short description
 
 ## How to Reach Me
 - Email: [dunmugoh51@gmail.com]
