@@ -1,17 +1,15 @@
-# Hi, I'm Duncan Mugo.
+# Hi, I'm Duncan Mugo
 
 ## About Me
-- I'm currently learning [Artificial Intelligence course in WeCan Academy a College located behind Safaripark Holet just after USIU].
-- I'm interested in [ knowing  AI as it will help to solve our day today problems ].
-- I'm looking to collaborate on ["beginner-friendly open source projects"].
-
+- I'm currently learning Artificial Intelligence Course at WeCAn Academy Located behind Safaripark Hotel Just After USIU.
+- I'm interested in knoiwng AI and Data science.
+- I'm looking to collaborate on all the activities and projects assigned to,
 ## Skills I'm Building
 - Git and GitHub
-- ["Python", "HTML/CSS", "Machine Learning"]
-
+- Python and Machine learning including programming language like C++
 ## Current Projects
-- [my first attempt](link) — short description
+- Still in introduction part.
 
 ## How to Reach Me
-- Email: [dunmugoh51@gmail.com]
-- LinkedIn: [duncan]
+- Email: dunmugoh51@gmail.com
+- LinkedIn: Diligent
