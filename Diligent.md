@@ -8,7 +8,9 @@
 - Git and GitHub
 - Python and Machine learning including programming language like C++
 ## Current Projects
-- Still in introduction part.
+- Creating an introduction profile page.
+- github  page.
+- Formtting of`TEXT
 
 ## How to Reach Me
 - Email: dunmugoh51@gmail.com
