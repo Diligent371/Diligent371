@@ -1,17 +1,25 @@
-# Hi, I'm Duncan Mugo
+$$ {\\color{blue} \\ Hi 👋, everyone! }$$ 
 
-## About Me
-- I'm currently learning Artificial Intelligence Course at #WeCAn Academy#, #*Located behind Safaripark Hotel Just After USIU*.#
-- I'm interested in knoiwng AI and Data science.
-- I'm looking to collaborate on all the activities and projects assigned to,
-## Skills I'm Building
-- Git and GitHub
-- Python and Machine learning including programming language like C++
-## Current Projects
-- Creating an introduction profile page.
-- github  page.
-- Formtting of`TEXT
+I'm **Duncan Mugo**
 
-## How to Reach Me
-- Email: dunmugoh51@gmail.com
-- LinkedIn: Diligent
+$$ {\\color{red} \\ <ins>**About \\  me**</u> }$$ 
+
+Am a passionate upcoming software developer from **WeCan** *Academy* Located behind **Safari Park Hotel** *aprox*,**150m**
+from  **USIU** main gate.
+
+I'm currently learning **Artificial Intelligence (AI)** course, *a field of computer science that builds software and systems capable of performing tasks that mimic human intelligence*.
+  
+👨‍💻<ins>**I'm interested in the following basic fields:-**<u>
+
+**1.  Basic of Machine Learning (ML)**: a primary method used to build **AI systems** today where engineers feed data to a computer model and allow it to learn the rules independently without programming <ins>**explicit instructions/codes,**<u>
+
+**2.  Basic of Deep Learning:** A subset of machine learning inspired by the human brain. It uses layers of artificial neural networks to process vast amounts of complex data like images, audio, and video.
+
+**3. Generative AI:** A modern branch of AI capable of creating original content. It powers systems that generate new text, images, music, and software code based on a prompt.=>*am much interested to develop a* <ins>**chat bot.**<u>
+
+👯 I’m looking to collaborate
+I willteame up  with  my  friends.
+
+📫 How to reach me
+dunmugoh51@gmail.com
+
