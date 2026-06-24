@@ -9,7 +9,7 @@ from  **USIU** main gate.
 
 I'm currently learning **Artificial Intelligence (AI)** course, *a field of computer science that builds software and systems capable of performing tasks that mimic human intelligence*.
   
-## 👨‍💻 ins>**I'm interested in the following basic fields:-**<u>
+## 👨‍💻 <ins>**I'm interested in the following basic fields:-**<u>
 
 **1.  Basic of Machine Learning (ML)**: a primary method used to build **AI systems** today where engineers feed data to a computer model and allow it to learn the rules independently without programming <ins>**explicit instructions/codes,**<u>
 
