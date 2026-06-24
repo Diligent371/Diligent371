@@ -9,7 +9,7 @@ from  **USIU** main gate.
 
 I'm currently learning **Artificial Intelligence (AI)** course, *a field of computer science that builds software and systems capable of performing tasks that mimic human intelligence*.
   
-👨‍💻<ins>**I'm interested in the following basic fields:-**<u>
+## 👨‍💻 ins>**I'm interested in the following basic fields:-**<u>
 
 **1.  Basic of Machine Learning (ML)**: a primary method used to build **AI systems** today where engineers feed data to a computer model and allow it to learn the rules independently without programming <ins>**explicit instructions/codes,**<u>
 
@@ -17,9 +17,10 @@ I'm currently learning **Artificial Intelligence (AI)** course, *a field of comp
 
 **3. Generative AI:** A modern branch of AI capable of creating original content. It powers systems that generate new text, images, music, and software code based on a prompt.=>*am much interested to develop a* <ins>**chat bot.**<u>
 
-👯 I’m looking to collaborate
-I willteame up  with  my  friends.
+# 👯 I’m looking to collaborate
+I will teame up  with  my  friends.
 
-📫 How to reach me
-dunmugoh51@gmail.com
+##  📫 My Contact 
+
+you can reach me through email: *<ins>dunmugoh51@gmail.com<u>*
 
