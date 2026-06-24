@@ -1,7 +1,7 @@
 # Hi, I'm Duncan Mugo
 
 ## About Me
-- I'm currently learning Artificial Intelligence Course at WeCAn Academy Located behind Safaripark Hotel Just After USIU.
+- I'm currently learning Artificial Intelligence Course at #WeCAn Academy#, #*Located behind Safaripark Hotel Just After USIU*.#
 - I'm interested in knoiwng AI and Data science.
 - I'm looking to collaborate on all the activities and projects assigned to,
 ## Skills I'm Building
